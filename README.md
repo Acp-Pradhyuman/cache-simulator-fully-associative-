@@ -50,6 +50,7 @@ public:
         data.resize(blockSize); // Resize the data vector to hold the block's data
     }
 };
+```
 
 # Cache Simulator
 
